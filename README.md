@@ -1,16 +1,16 @@
-# 📊 SQL Problem Solving Portfolio
+# SQL Problem Solving Portfolio
 
 A structured collection of SQL query solutions built entirely **from scratch**. This repository tracks my journey in solving data manipulation, aggregation, and query optimization challenges from platforms like StrataScratch, DataLemur, and LeetCode.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 - **Dialects:** PostgreSQL / MySQL / MS SQL Server
 - **Core Concepts:** Common Table Expressions (CTEs), Advanced Window Functions, Multi-table Joins, Subqueries, Row/Column Pivot, Query Performance Tuning
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The project is organized by platform and difficulty level to ensure seamless navigation:
 
@@ -36,7 +36,7 @@ The project is organized by platform and difficulty level to ensure seamless nav
 
 ---
 
-## 📝 Solution Template
+## Solution Template
 
 Every individual problem folder contains a dedicated query file (`solution.sql`) and a detailed analysis markdown file (`README.md`). I use the following uniform structure to document my thought process:
 
