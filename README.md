@@ -13,6 +13,7 @@ Instead of relying on templates or quick hacks, I build every query here using r
 I group my solutions by platform and then nest them by difficulty. Every single problem folder contains a `solution.sql` file (my raw query) and a dedicated `README.md` explaining my thought process.
 
 *   **[StrataScratch](./StrataScratch/)** — Focuses heavily on data science and analytics interview queries.
+  1. Finding Updated Records ID 10299: Answer provided in solution.sql
 *   **[DataLemur](./DataLemur/)** — Real big-tech interview questions tracking core business metrics.
 *   **[LeetCode](./LeetCode/)** — Great for pure algorithmic syntax and database fundamentals.
 
