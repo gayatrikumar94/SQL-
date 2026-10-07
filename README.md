@@ -1,6 +1,6 @@
 # SQL Problem Solving Portfolio
 
-Welcome to my personal sandbox! This repository tracks my journey mastering SQL by solving complex data problems **entirely from scratch**. 
+A curated collection of SQL query solutions solving real-world data problems from platforms like LeetCode, HackerRank, and DataLemur. Features optimized queries ranging from basic joins to window functions.
 
 Instead of relying on templates or quick hacks, I build every query here using raw logic. My goal is to build highly optimized queries while treating every problem like a real-world business case.
 
